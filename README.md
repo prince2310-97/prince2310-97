@@ -1,37 +1,189 @@
-<h1 align="center">Hi 👋, I'm prince kumar</h1>
-<h3 align="center">I am a Data Analyst with 3 years of pharmaceutical commercial experience at Wockhardt Pharmaceuticals. During my time as a Senior Key Account Manager, I managed 140+ distributor and healthcare institution accounts across the Jharkhand region and consistently achieved 115–121% of sales targets. Now, I combine that business understanding with technical skills in Python, SQL, Power BI, and Excel to analyze data and generate actionable insights.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince2310-97&label=Profile%20views&color=0e75b6&style=flat" alt="prince2310-97" /> </p>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prince%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Insight%20Storyteller&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince2310-97" alt="prince2310-97" /></a> </p>
-
-- This project analyzes a Health Insurance CRM dataset to identify key factors affecting lead conversion. It includes data cleaning, sales funnel analysis, follow-up impact, and agent performance evaluation to generate actionable business insights. **💥 Health Insurance CRM Sales Funnel Analysis**
-
-- 🌱 I’m currently learning **ML and AWS**
-
-- 💬 Ask me about **Python, SQL, Excel, PowerBI, Tableau**
-
-- 📫 How to reach me **princerv0011@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aLVJV9vvQyOup6XWZmI4F3e-DqFRNew-/view?usp=sharing](https://drive.google.com/file/d/1aLVJV9vvQyOup6XWZmI4F3e-DqFRNew-/view?usp=sharing)
-
-- ⚡ Fun fact **I like solving real-world business problems using data rather than just building models.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/princekr2310" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/mr_prince_.23_/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
+<!-- Profile Views & Trophies -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=prince2310-97&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/prince2310-97?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince2310-97&show_icons=true&locale=en&layout=compact" alt="prince2310-97" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince2310-97&show_icons=true&locale=en" alt="prince2310-97" /></p>
+## 🙋‍♂️ About Me
 
+```python
+prince = {
+    "name"       : "Prince Kumar",
+    "role"       : "Data Analyst",
+    "background" : "3 Years @ Wockhardt Pharmaceuticals (Senior KAM)",
+    "domain"     : "Pharma · Retail · HR · Insurance",
+    "tools"      : ["Python", "SQL", "Power BI", "Excel", "Tableau"],
+    "learning"   : ["Machine Learning", "AWS"],
+    "superpower" : "Turning messy business data into ₹ decisions 💡"
+}
+```
+
+> 🏆 Managed **140+ distributor & healthcare accounts** across Jharkhand | Achieved **115–121% of sales targets**
+> Now I combine that **commercial instinct** with **data skills** to generate insights that actually move the needle.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 💊 Pharmaceutical Sales Effectiveness Analysis
+[![Pharma](https://img.shields.io/badge/Python-SQL-PowerBI-informational?style=for-the-badge&logo=python&color=3776AB)](https://github.com/prince2310-97)
+
+</div>
+
+> ₹84.12M revenue analyzed · 4 territories · 15+ sales reps · FY 2024–25
+
+| Highlight | Finding |
+|-----------|---------|
+| 📍 North Territory | ₹24.5M revenue — strongest primary + secondary balance |
+| ⚠️ East Territory | Conversion ratio 0.87 — below threshold, channel stuffing risk |
+| 🌟 Star Performer | Ravi Menon (South) — highest visits + highest revenue |
+| 🔴 PIP Candidate | Manoj Roy (East) — lowest visits + lowest revenue |
+| 💰 Marketing ROI | **5.11x overall** · North: 5.95x (best) · East: 3.97x (worst) |
+
+**Tools:** `Python` `PostgreSQL` `Power BI (DAX)` `Jupyter Notebook`
+
+---
+
+<div align="center">
+
+### 🛒 Retail Key Account Profitability Diagnostic
+[![Retail](https://img.shields.io/badge/Python-SQL-PowerBI-informational?style=for-the-badge&logo=powerbi&color=F2C811)](https://github.com/prince2310-97)
+
+</div>
+
+> $1.92M sales analyzed · $291K hidden losses uncovered · 48.98% loss transactions · SuperStore US H1 2015
+
+| Highlight | Finding |
+|-----------|---------|
+| 💸 Loss Transactions | **48.98%** of all orders are loss-making |
+| 📍 South Region | Net loss at -4.04% margin — highest risk zone |
+| 🏆 Central Region | Best performer at 17.26% profit margin |
+| 🎯 Strategic Accounts | 151 customers = Strategic Core, need dedicated KAM |
+| 🔴 Loss Accounts | 567 customers (47.6%) need immediate review |
+
+**Tools:** `Python` `PostgreSQL` `Power BI (DAX)` `Excel`
+
+---
+
+<div align="center">
+
+### 👥 HR Analytics — Employee Attrition Root-Cause Study
+[![HR](https://img.shields.io/badge/Excel-PowerQuery-informational?style=for-the-badge&logo=microsoftexcel&color=217346)](https://github.com/prince2310-97)
+
+</div>
+
+> 2,441 employees · 41% attrition (2.7x industry benchmark) · ~$11M retention opportunity · Excel end-to-end
+
+| Highlight | Finding |
+|-----------|---------|
+| 📊 Attrition Rate | **41.08%** vs 12–15% industry benchmark |
+| 🏢 Worst Department | Sales — 51.5% attrition rate |
+| 😞 #1 Predictor | Job Satisfaction Score ≤2 → **64.4% leave rate** |
+| 👶 Highest Risk Group | 25–34 age group — 282 departures (28.1%) |
+| 📅 New Hires | 0–1 yr tenure → 53.4% attrition — onboarding is broken |
+
+**Tools:** `Microsoft Excel` `Power Query` `Pivot Tables` `Conditional Formatting`
+
+---
+
+<div align="center">
+
+### 🏥 Health Insurance CRM — Sales Funnel Analysis
+[![CRM](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)](https://github.com/prince2310-97)
+
+</div>
+
+> Analyzes a Health Insurance CRM dataset to identify key factors affecting lead conversion — data cleaning, sales funnel analysis, follow-up impact, and agent performance evaluation.
+
+**Tools:** `Python` `SQL` `Power BI` *(Coming Soon 🔄)*
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Analytics & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3c6e71?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Cloud & Other**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prince2310-97&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince2310-97&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prince2310-97&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prince2310-97&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princekr2310)
+[![Gmail](https://img.shields.io/badge/Gmail-princerv0011%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princerv0011@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aLVJV9vvQyOup6XWZmI4F3e-DqFRNew-/view?usp=sharing)
+[![Instagram](https://img.shields.io/badge/Instagram-mr__prince__.23__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_prince_.23_/)
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ *"I like solving real-world business problems using data — not just building models."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
