@@ -37,7 +37,7 @@ prince = {
 ### 💊 Pharmaceutical Sales Effectiveness Analysis
 [![View Project](https://img.shields.io/badge/View%20Project-pharma__sales-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince2310-97/pharma_sales_effectiveness_analysis)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 > ₹84.12M revenue analyzed · 4 territories · 15+ sales reps · FY 2024–25
@@ -55,7 +55,7 @@ prince = {
 ### 🛒 Retail Key Account Profitability Diagnostic
 [![View Project](https://img.shields.io/badge/View%20Project-retail--key--account-F2C811?style=for-the-badge&logo=github&logoColor=black)](https://github.com/prince2310-97/retail-key-account-profitability-analysis)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 > $1.92M sales · $291K hidden losses uncovered · 48.98% loss transactions · SuperStore US H1 2015
@@ -108,7 +108,7 @@ prince = {
 ### 🏦 Health Insurance CRM — Sales Funnel Analysis
 [![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)](https://github.com/prince2310-97)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 > Analyzes a Health Insurance CRM dataset to identify key factors affecting lead conversion — sales funnel analysis, follow-up impact & agent performance evaluation. *(Coming Soon 🔄)*
@@ -122,8 +122,7 @@ prince = {
 **Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Analytics & Visualization**
 
