@@ -178,7 +178,7 @@ prince = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princekr2310)
 [![Gmail](https://img.shields.io/badge/Gmail-princerv0011%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princerv0011@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aLVJV9vvQyOup6XWZmI4F3e-DqFRNew-/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://prince2310-97.github.io/resume.pdf)
 [![Instagram](https://img.shields.io/badge/Instagram-mr__prince__.23__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_prince_.23_/)
 
 </div>
