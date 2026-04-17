@@ -1,18 +1,13 @@
 <div align="center">
+  
+  <!-- World-Class Live Animated Banner -->
+  <img 
+    src="https://raw.githubusercontent.com/prince2310-97/prince2310-97/main/banner.gif" 
+    width="100%" 
+    alt="Prince Kumar - Data Analytics Expert | Live Animation"
+  />
 
-<!-- Updated Animated Banner -->
-<!-- Soft Modern Banner -->
-<img 
-<!-- Modern Animated Banner -->
-<img 
-<!-- Bold Dynamic Banner -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Prince%20Kumar&fontSize=78&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Data%20Analytics%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Healthcare%20Domain%20Expertise%20%E2%80%A2%20Key%20Account%20Management&descAlignY=68&descSize=22&textBg=true" 
-  width="100%" 
-  alt="Prince Kumar Banner"
-/>
-/>
-/>
+</div>
 
 
 <!-- Profile Views & Followers -->
