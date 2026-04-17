@@ -5,9 +5,12 @@
 <img 
 <!-- Modern Animated Banner -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Prince%20Kumar&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Healthcare%20Domain%20Expertise%20%E2%80%A2%20Key%20Account%20Management&descAlignY=65&descSize=20&textBg=true" 
+<!-- Bold Dynamic Banner -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Prince%20Kumar&fontSize=78&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Data%20Analytics%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Healthcare%20Domain%20Expertise%20%E2%80%A2%20Key%20Account%20Management&descAlignY=68&descSize=22&textBg=true" 
   width="100%" 
-  alt="Prince Kumar - Data Analytics & BI Expert"
+  alt="Prince Kumar Banner"
+/>
 />
 />
 
