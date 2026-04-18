@@ -5,13 +5,6 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Revenue+Insights;Pharma+%2B+Healthcare+Domain+Expert;End-to-End+Analytics+Projects;From+Field+Sales+to+Data+Strategy" />
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Business+Decisions;Pharma+%2B+Analytics+Expert;Building+End-to-End+Projects" />
-
-</div>
 
 
 <!-- Profile Views & Followers -->
