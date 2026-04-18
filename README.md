@@ -1,22 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:FF6FD8&height=200&section=header&text=Prince%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Healthcare%20%26%20Commercial%20Data%20Analyst&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<h3 style="font-weight:600; color:#00C9FF; letter-spacing:2px;">
-  ⚡ SQL &nbsp;•&nbsp; Python &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; Excel &nbsp;•&nbsp; Tableau
-</h3>
-
-<p style="color:#aaaaaa; font-size:14px;">
-  Pharma &nbsp;|&nbsp; Healthcare &nbsp;|&nbsp; Retail &nbsp;|&nbsp; HR Analytics &nbsp;|&nbsp; Insurance
-</p>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+%E2%82%B9+Revenue+Decisions+%F0%9F%92%A1;140%2B+Distributor+%26+Healthcare+Accounts+Managed;115-121%25+of+Sales+Targets+Achieved+%F0%9F%8F%86;Pharma+%2B+Analytics+%3D+Business+Impact" />
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Prince%20Kumar&fontSize=65&fontColor=fff&fontAlignY=38&animation=twinkling&desc=Data%20Analyst%20%7C%20Pharma%20%26%20Healthcare%20Domain%20%7C%20Business%20Intelligence%20%7C%20KAM%20to%20Analytics&descAlignY=60&descSize=17&descColor=fff&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 </div>
 
