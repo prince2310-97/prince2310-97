@@ -1,22 +1,24 @@
 <div align="center">
 
-<h1 style="
-  font-size:48px;
-  font-weight:800;
-  background: linear-gradient(90deg,#00C9FF,#92FE9D,#FF6FD8,#FFD700);
-  -webkit-background-clip: text;
-  color: transparent;
-">
-  Prince Kumar
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:FF6FD8&height=200&section=header&text=Prince%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Healthcare%20%26%20Commercial%20Data%20Analyst&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<h3 style="font-weight:600;">
-  Healthcare & Commercial Data Analyst
+<br/>
+
+<h3 style="font-weight:600; color:#00C9FF; letter-spacing:2px;">
+  ⚡ SQL &nbsp;•&nbsp; Python &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; Excel &nbsp;•&nbsp; Tableau
 </h3>
 
-<p>
-  SQL • Python • Power BI • Excel • Business Analytics
+<p style="color:#aaaaaa; font-size:14px;">
+  Pharma &nbsp;|&nbsp; Healthcare &nbsp;|&nbsp; Retail &nbsp;|&nbsp; HR Analytics &nbsp;|&nbsp; Insurance
 </p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+%E2%82%B9+Revenue+Decisions+%F0%9F%92%A1;140%2B+Distributor+%26+Healthcare+Accounts+Managed;115-121%25+of+Sales+Targets+Achieved+%F0%9F%8F%86;Pharma+%2B+Analytics+%3D+Business+Impact" />
+
+<br/><br/>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Revenue+Insights;Pharma+%2B+Healthcare+Domain+Expert;End-to-End+Analytics+Projects;From+Field+Sales+to+Data+Strategy" />
 
