@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Prince%20Kumar&fontSize=65&fontColor=fff&fontAlignY=38&animation=twinkling&desc=Data%20Analyst%20%7C%20Pharma%20%26%20Healthcare%20Domain%20%7C%20Business%20Intelligence%20%7C%20KAM%20to%20Analytics&descAlignY=60&descSize=17&descColor=fff&stroke=ffffff&strokeWidth=2" width="100%"/>
+<!-- Updated Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prince%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Healthcare%20Domain%20Expertise%20%7C%20Key%20Account%20Management&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
