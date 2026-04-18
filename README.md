@@ -1,18 +1,26 @@
 <div align="center">
-  
-  <!-- World-Class Live Animated Banner -->
 
 <h1 style="
-  font-size:42px;
-  font-weight:bold;
-  background: linear-gradient(90deg,#00C9FF,#92FE9D,#FF6FD8);
+  font-size:48px;
+  font-weight:800;
+  background: linear-gradient(90deg,#00C9FF,#92FE9D,#FF6FD8,#FFD700);
   -webkit-background-clip: text;
   color: transparent;
 ">
   Prince Kumar
 </h1>
 
-<h3>Data Analyst | SQL • Python • Power BI</h3>
+<h3 style="font-weight:600;">
+  Healthcare & Commercial Data Analyst
+</h3>
+
+<p>
+  SQL • Python • Power BI • Excel • Business Analytics
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Revenue+Insights;Pharma+%2B+Healthcare+Domain+Expert;End-to-End+Analytics+Projects;From+Field+Sales+to+Data+Strategy" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Business+Decisions;Pharma+%2B+Analytics+Expert;Building+End-to-End+Projects" />
 
