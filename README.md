@@ -24,9 +24,8 @@ prince = {
 }
 ```
 
-> 🏆 3 years of B2B / Key Account Management experience in pharmaceutical commercial operations, managing distributor and healthcare accounts.
-> Now applying that commercial instinct — territory economics, account profitability, rep performance — to data-driven analysis using Python, SQL, and Power BI.
-
+> 🏆 3 years of pharmaceutical sales & Key Account Management experience, managing distributor and healthcare accounts at Wockhardt Pharmaceuticals.
+> 📊 Now applying that hands-on business experience to data-driven analysis using Python, SQL, and Power BI, with a focus on sales effectiveness, account profitability, and healthcare operations.
 ---
 
 ## 🚀 Featured Projects
